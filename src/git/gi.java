@@ -1,5 +1,8 @@
 package git;
 
-public interface gi {
+public class gi {
+ public void main(String[] args){
+	 System.out.println("124");
 
+}
 }
