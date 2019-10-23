@@ -3,7 +3,7 @@ package git;
 public class gi {
 
  public void main(String[] args){
-	 System.out.println("6");
+	 System.out.println("nml");
 
 }
 }
