@@ -3,7 +3,7 @@ package git;
 public class gi {
 
  public void main(String[] args){
-	 System.out.println("www");
+	 System.out.println("890);
 
 
 }
